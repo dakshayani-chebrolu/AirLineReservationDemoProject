@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-21T23:24:05 CEST" name="Suite" finished-at="2021-05-21T23:24:11 CEST" duration-ms="5661">
+    <groups>
+    </groups>
+    <test started-at="2021-05-21T23:24:05 CEST" name="Verify_Flight_Booking" finished-at="2021-05-21T23:24:11 CEST" duration-ms="5661">
+      <class name="tests.BlazeDemoTestCases">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:tests.BlazeDemoTestCases@22635ba0]" started-at="2021-05-21T23:24:05 CEST" name="initialize" finished-at="2021-05-21T23:24:08 CEST" duration-ms="3077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="verifyFlightBookingInBlazeDemo()[pri:0, instance:tests.BlazeDemoTestCases@22635ba0]" started-at="2021-05-21T23:24:08 CEST" name="verifyFlightBookingInBlazeDemo" finished-at="2021-05-21T23:24:10 CEST" duration-ms="2409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFlightBookingInBlazeDemo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.BlazeDemoTestCases@22635ba0]" started-at="2021-05-21T23:24:10 CEST" name="tearDown" finished-at="2021-05-21T23:24:11 CEST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.BlazeDemoTestCases -->
+    </test> <!-- Verify_Flight_Booking -->
+  </suite> <!-- Suite -->
+</testng-results>
